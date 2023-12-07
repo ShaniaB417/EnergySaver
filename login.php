@@ -8,7 +8,7 @@ if (isset($_SESSION['user_id'])) {
 }
 
 // Database connection
-// Include your database connection file here
+// Include database connection 
 include('config.php');
 
 // Check if the form is submitted
