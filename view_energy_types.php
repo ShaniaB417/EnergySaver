@@ -72,7 +72,7 @@ footer {
 </div>
 
     <?php
-    // Include your database connection file here
+    // Include  database file here
     include('config.php');
 
 
